@@ -44,6 +44,11 @@
 
 ---
 
+
+<p align="center">
+  <img src="assets/space-shooter.gif" />
+</p>
+
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/mansiray26a
